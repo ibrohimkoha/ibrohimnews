@@ -1,0 +1,57 @@
+# OS specific files
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+
+# Thumbnails
+*.thumbnails
+
+# Cache directories
+.cache
+*.cache
+
+# Virtual environment (Python specific)
+alembic/
+alembic.ini
+venv/
+.env
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE specific files (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+*.code-workspace
+
+# Node.js specific files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Linux executables and binary files
+*.out
+*.o
+*.a
+*.exe
+
+# Git specific files
+*.orig
